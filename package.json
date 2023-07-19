@@ -1,0 +1,24 @@
+{
+  "name": "grapesjs-articles",
+  "version": "0.1",
+  "description": "GrapesJS articles",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  
+  "scripts": {
+    "start": "grapesjs-cli serve",
+    "build": "grapesjs-cli build",
+    "bump": "npm version patch -m 'Bump v%s' --force"
+  },
+  "keywords": [
+    "grapesjs",
+    "plugin"
+  ],
+  "devDependencies": {
+    "grapesjs": "^0.21.3",
+    "grapesjs-cli": "^4.1.1"
+  },
+  "license": "MIT"
+}
