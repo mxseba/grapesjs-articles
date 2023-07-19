@@ -50,7 +50,7 @@ const editor = grapesjs.init({
 Clone the repository
 
 ```sh
-$ git clone https://github.com/mxseba/grapesjs-articles.git.git
+$ git clone https://github.com/mxseba/grapesjs-articles.git
 $ cd grapesjs-articles
 ```
 
